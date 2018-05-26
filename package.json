@@ -1,0 +1,19 @@
+{
+  "name": "shopstop",
+  "version": "0.0.1",
+  "description": "SoftUni JS-Web course simple web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexxIV/shopStop.git"
+  },
+  "author": "Alex Ivanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexxIV/shopStop/issues"
+  },
+  "homepage": "https://github.com/AlexxIV/shopStop#readme"
+}
